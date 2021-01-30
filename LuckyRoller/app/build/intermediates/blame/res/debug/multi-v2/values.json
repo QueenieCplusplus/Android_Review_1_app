@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/katesandroid/AndroidStudioProjects/LuckyRoller/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/katesandroid/.gradle/caches/transforms-2/files-2.1/b5466dcfe12488b715be006750d7ab23/jetified-appcompat-resources-1.2.0/res/values/values.xml",
@@ -42,6 +42,23 @@
                     }
                 },
                 {
+                    "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "312,313,314",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "14346,14392,14439",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "14387,14434,14485"
+                    }
+                },
+                {
                     "source": "/Users/katesandroid/.gradle/caches/transforms-2/files-2.1/ba0ed6b90ecdbadb94c34186e81cdf42/constraintlayout-2.0.4/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,8,9,17,18,19,20,21,22,23,24,28,29,30,31,39,47,48,49,54,55,60,65,66,67,72,73,78,79,84,85,86,92,93,94,99,104,105,106,110,111,112,113,116,117,120,123,124,125,126,127,130,133,134,135,136,141,144,147,148,149,154,155,156,159,162,163,166,169,172,175,176,177,180,183,184,189,190,195,198,201,202,203,204,205,206,207,208,209,210,225,226,227,228,229,235,236,237,240,245,246,247,248,257,263,264,268,269,270,271,280,360,284,285,286,287,288,289,290,291,292,293,294,295,300,301,302,303,304,305,306,312,313,319,326,338,339,340,341,342,359",
@@ -58,6 +75,25 @@
                         "endLines": "2,7,8,16,17,18,19,20,21,22,23,27,28,29,30,38,46,48,49,54,55,60,65,66,67,72,73,78,79,84,85,86,92,93,94,99,104,105,108,112,113,114,115,118,119,122,125,126,127,128,129,132,135,136,137,138,143,146,149,150,151,156,157,158,161,164,165,168,171,174,177,178,179,182,185,186,191,192,197,200,203,204,205,206,207,208,209,210,211,212,227,228,229,230,231,237,238,239,242,247,248,249,251,260,266,267,271,272,273,274,283,287,518,2823,2824,2825,2826,2827,2965,2966,2967,2968,2969,2970,2975,2976,2977,2978,3211,3212,3213,3219,3220,3226,3233,3245,3256,3312,3345,3505,3522,3523",
                         "endColumns": "56,11,60,11,51,47,50,51,60,61,45,11,51,49,50,11,11,44,58,11,56,11,11,53,56,11,57,11,55,11,56,50,11,51,54,11,11,49,55,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,55,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,50,48,47,57,11,46,59,11,11,45,46,51,11,11,54,11,45,54,44,11,11,40,4259,3645,143,4346,502,419,630,651,40,53,49,382,652,497,2917,345,231,139,35,129,133,35,35,231,126,105,483,35,302",
                         "endOffsets": "157,343,404,695,747,795,846,898,959,1021,1067,1200,1252,1302,1353,1662,1974,2074,2133,2330,2387,2582,2763,2817,2874,3066,3124,3320,3376,3570,3627,3678,3900,3952,4007,4197,4373,4423,4573,4733,4794,4854,4924,5057,5125,5254,5380,5442,5507,5575,5642,5765,5890,5957,6022,6087,6268,6389,6510,6576,6643,6853,6922,6988,7113,7239,7306,7432,7559,7684,7811,7867,7932,8058,8181,8246,8454,8521,8701,8821,8941,9006,9068,9130,9192,9251,9311,9372,9433,9492,10143,10194,10243,10291,10349,10579,10626,10686,10792,10972,11018,11065,11158,11488,11726,11781,11920,11966,12021,12066,12407,12544,27864,178935,182581,182725,187072,187575,196136,196767,197419,197460,197514,197564,198186,198839,199337,202255,213978,214210,214350,214855,214985,215412,215807,216839,217588,220740,222749,232365,233487,233790"
+                    }
+                },
+                {
+                    "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "53",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "367"
+                    },
+                    "to": {
+                        "startLines": "574",
+                        "startColumns": "4",
+                        "startOffsets": "31397",
+                        "endLines": "579",
+                        "endColumns": "12",
+                        "endOffsets": "31711"
                     }
                 },
                 {
@@ -80,7 +116,7 @@
                     }
                 },
                 {
-                    "source": "/Users/katesandroid/AndroidStudioProjects/LuckyRoller/app/src/main/res/values/strings.xml",
+                    "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -94,42 +130,6 @@
                         "startOffsets": "30782",
                         "endColumns": "48",
                         "endOffsets": "30826"
-                    }
-                },
-                {
-                    "source": "/Users/katesandroid/AndroidStudioProjects/LuckyRoller/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "53",
-                        "endLines": "7",
-                        "endColumns": "12",
-                        "endOffsets": "367"
-                    },
-                    "to": {
-                        "startLines": "574",
-                        "startColumns": "4",
-                        "startOffsets": "31397",
-                        "endLines": "579",
-                        "endColumns": "12",
-                        "endOffsets": "31711"
-                    }
-                },
-                {
-                    "source": "/Users/katesandroid/AndroidStudioProjects/LuckyRoller/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
-                    },
-                    "to": {
-                        "startLines": "312,313,314",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "14346,14392,14439",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "14387,14434,14485"
                     }
                 }
             ]

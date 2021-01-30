@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/drawable_gotpower.xml.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/drawable/gotpower.xml"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/drawable_notbad.xml.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/drawable/notbad.xml"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/drawable_gohome.xml.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/drawable/gohome.xml"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/res/merged/release/drawable_luck.xml.flat",
+        "source": "/Users/katesandroid/Desktop/LuckyRoller/app/src/main/res/drawable/luck.xml"
+    }
+]

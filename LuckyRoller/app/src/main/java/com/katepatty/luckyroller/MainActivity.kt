@@ -2,10 +2,8 @@ package com.katepatty.luckyroller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log.d
 import android.widget.ImageView
 import android.widget.TextView
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -24,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         val outputImg: ImageView = findViewById(R.id.rollResultImg)
 
         // 生出隨機值
-        val randomInt = (1..5).random()
+        val randomInt = (1..7).random()
 
         // 將隨機值指派給容器變數的屬性中
         //outputStr.text = randomInt.toString()
@@ -41,10 +39,10 @@ class MainActivity : AppCompatActivity() {
 
         val randomSrc = when (randomInt) {
 
-            1 -> R.drawable.notbad
-            2 -> R.drawable.luck
-            3 -> R.drawable.gotpower
-            else -> R.drawable.home
+            1 -> R.drawable.luck
+            2 -> R.drawable.gotpower
+            3 -> R.drawable.notbad
+            else -> R.drawable.gohome
 
         }
         // below resId = 容器變數放回呼值

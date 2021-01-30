@@ -1,0 +1,4 @@
+#Sat Jan 30 13:32:51 CST 2021
+base.0=/Users/katesandroid/Desktop/LuckyRoller/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
