@@ -2,3 +2,9 @@
 我的媽祖關公孫悟空卡通版本的抽籤應用程式（看看今日運勢如何，祝你好手氣！）
 
 ![](https://github.com/QueenieCplusplus/Android_Review_1_app/raw/main/output1.png)
+
+![](https://github.com/QueenieCplusplus/Android_Review_1_app/raw/main/output2.png)
+
+![](https://github.com/QueenieCplusplus/Android_Review_1_app/raw/main/output3.png)
+
+![](https://github.com/QueenieCplusplus/Android_Review_1_app/raw/main/output4.png)
