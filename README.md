@@ -7,7 +7,7 @@
 
   ![](https://github.com/QueenieCplusplus/Android_Review_1_app/raw/main/output3.png)
 
-![](https://github.com/QueenieCplusplus/Android_Review_1_app/raw/main/output4.png)
+![](https://github.com/QueenieCplusplus/Android_Review_1_app/raw/main/outputX.png)
 
 * 畫面佈局
 
